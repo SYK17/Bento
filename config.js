@@ -11,13 +11,13 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: '',
+  name: 'Sammy',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
+  greetingMorning: 'Good morning,',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
   greetingNight: 'Go to Sleep!',
@@ -77,9 +77,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Springboard',
+      icon: 'graduation-cap',
+      link: 'https://springboard.com/',
     },
     {
       id: '6',
@@ -92,9 +92,9 @@ const CONFIG = {
   secondButtonsContainer: [
     {
       id: '1',
-      name: 'Music',
-      icon: 'headphones',
-      link: 'https://open.spotify.com',
+      name: 'Figma',
+      icon: 'figma',
+      link: 'https://figma.com/',
     },
     {
       id: '2',
@@ -104,9 +104,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'bot',
-      icon: 'bot',
-      link: 'https://discord.com/app',
+      name: 'Slack',
+      icon: 'slack',
+      link: 'https://slack.com',
     },
     {
       id: '4',
@@ -116,15 +116,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Hashnode',
-      icon: 'pen-tool',
-      link: 'https://hashnode.com/',
+      name: 'Reddit',
+      icon: 'glasses',
+      link: 'https://reddit.com'
     },
     {
       id: '6',
-      name: 'Figma',
-      icon: 'figma',
-      link: 'https://figma.com/',
+      name: 'Music',
+      icon: 'headphones',
+      link: 'https://open.spotify.com',
     },
   ],
 
