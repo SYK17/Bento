@@ -98,9 +98,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/',
+      name: 'Google Drive',
+      icon: 'server',
+      link: 'https://https://drive.google.com/drive/my-drive/',
     },
     {
       id: '3',
