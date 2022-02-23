@@ -122,9 +122,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Music',
-      icon: 'headphones',
-      link: 'https://open.spotify.com',
+      name: 'Dribble',
+      icon: 'dribble',
+      link: 'https://dribbble.com/search/ux',
     },
   ],
 
