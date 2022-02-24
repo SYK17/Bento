@@ -123,7 +123,7 @@ const CONFIG = {
     {
       id: '6',
       name: 'Dribble',
-      icon: 'dribble',
+      icon: 'dribbble',
       link: 'https://dribbble.com/search/ux',
     },
   ],
